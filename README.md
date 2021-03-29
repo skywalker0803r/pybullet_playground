@@ -1,3 +1,3 @@
 # pybullet_playground
 
-![image](https://github.com/skywalker0803r/pybullet_playground/blob/main/gif/Peek 2021-03-29 12-42.gif)
+![image](https://github.com/skywalker0803r/pybullet_playground/blob/main/gif/Peek%202021-03-29%2012-42.gif)
